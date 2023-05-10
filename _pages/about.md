@@ -137,7 +137,7 @@ Reading group slides:
 
 Invited talks:
 
-- Physics-informed Machine Learning at [Lu's group](https://lu.seas.upenn.edu/) \[[slides]\](files/piml_survey_report.pdf) 
+- [Slides](files/piml_survey_report.pdf) about Physics-informed Machine Learning at [Lu's group](https://lu.seas.upenn.edu/).
 
 
 ***
