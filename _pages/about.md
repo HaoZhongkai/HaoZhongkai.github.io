@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chengyang Ying (应铖阳)"
+title: "Zhongkai Hao (郝中楷)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,93 +8,107 @@ redirect_from:
   - /about.html
 ---
 
-I’m Chengyang Ying, a second-year Ph.D. student of [TSAIL Group](https://ml.cs.tsinghua.edu.cn/index.html) in [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml) and A/Prof. [Hang Su](https://www.suhangss.me/). My research interest includes **machine learning**, **reinforcement learning** and **AI for science**. 
+I’m Zhongkai Hao, a second-year Ph.D. student of [TSAIL Group](https://ml.cs.tsinghua.edu.cn/index.html)  at **Tsinghua University**, supervised by Prof. [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml), Prof. [Hang Su](https://www.suhangss.me/). and Prof. Jian Song.  My research interests are mainly about  **AI for science**. I'm also interested in **generative models** and **reinforcement learning**.  
 
-Before that, I obtained my Bachelor of Science degree from [Department of Mathematical Sciences](https://math.tsinghua.edu.cn/) of [Tsinghua University](https://www.tsinghua.edu.cn/) in July, 2021, majored in **Mathematics** and minored in **Computer Application**.
+Before that, I obtained my Bachelor of Science degree from **School of Gifted Young** of **USTC** in July, 2021, majored in **Computational Mathematics**.
 
-Email: ycy21@mails.tsinghua.edu.cn; yingcy17@gmail.com
+Email: hzj21@mails.tsinghua.edu.cn; hzk011003@gmail.com; hzk171805@mail.ustc.edu.cn
 
-[Paper reading list of part recent research on Single Agent RL](https://github.com/yingchengyang/Reinforcement-Learning-Papers)
+# News
+
+- We have a survey paper about physics-informed machine learning available on arXiv:
+
+  [Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications](https://arxiv.org/pdf/2211.08064.pdf)<br>
+
+  It provides insights about how to integrate physical prior into machine learning. It also exhaustively introduces recent progress of **Physics-informed Neural Networks** and **Neural Operators**.
+
+- We have a automatically renewing paper list about **AI for Science**: 
+
+  [Machine Learning for Science and Engineering PaperList](https://ml.cs.tsinghua.edu.cn/~zhongkai/papers/ml4phys_paperlist.txt)
+
+  Although this paperlist now might be not very accurate, it is a good tool to track new papers about AI4Science. We will improve its filtration efficiency further.
 
 Publications
 ======
-* On the Reuse Bias in Off-Policy Reinforcement Learning <br>
-**Chengyang Ying**, Zhongkai Hao, Xinning Zhou, Hang Su, Dong Yan, Jun Zhu <br>
-International Joint Conference on Artificial Intelligence **(IJCAI)**, Macao, China, 2023 <br>
-[\[arXiv\]](https://arxiv.org/pdf/2209.07074.pdf) [\[code\]](https://github.com/yingchengyang/BIRIS)
 
-* GNOT: A General Neural Operator Transformer for Operator Learning <br>
-Zhongkai Hao, **Chengyang Ying**, Zhengyi Wang, Hang Su, Yinpeng Dong, Songming Liu, Ze Cheng, Jun Zhu, Jian Song <br>
-International Conference on Machine Learning **(ICML)**, Hawaii, USA, 2023 <br>
-[\[arXiv\]](https://arxiv.org/pdf/2302.14376.pdf) [\[code\]](https://github.com/HaoZhongkai/GNOT)
+* GNOT: A General Neural Operator Transformer for Operator Learning <br>**Zhongkai Hao**, Chengyang Ying, Zhengyi Wang, Hang Su, Yinpeng Dong, Songming Liu, Ze Cheng, Jun Zhu, Jian Song <br>
+  International Conference on Machine Learning **(ICML)**, Hawaii, USA, 2023 <br>
+  [\[arXiv\]](https://arxiv.org/pdf/2302.14376.pdf) [\[code\]](https://github.com/HaoZhongkai/GNOT)
 
 * NUNO: A General Framework for Learning Parametric PDEs with Non-Uniform Data <br>
-Songming Liu, Zhongkai Hao, **Chengyang Ying**, Hang Su, Ze Cheng, Jun Zhu <br>
-International Conference on Machine Learning **(ICML)**, Hawaii, USA, 2023 <br>
+  Songming Liu, **Zhongkai Hao**, Chengyang Ying, Hang Su, Ze Cheng, Jun Zhu <br>
+  International Conference on Machine Learning **(ICML)**, Hawaii, USA, 2023 <br>
 
-* [Consistent Attack: Universal Adversarial Perturbation on Embodied Vision Navigation](https://www.sciencedirect.com/science/article/pii/S0167865523000661) <br>
-**Chengyang Ying<sup>&lowast;</sup>**, You Qiaoben<sup>&lowast;</sup>, Xinning Zhou<sup>&lowast;</sup>, Hang Su, Wenbo Ding, Jianyong Ai <br>
-Pattern Recognition Letters **(PRL)**, 2023<br>
-[\[arXiv\]](https://arxiv.org/pdf/2206.05751.pdf) [\[code\]](https://github.com/yingchengyang/Consistent-Attack)
+* On the Reuse Bias in Off-Policy Reinforcement Learning <br>
+  Chengyang Ying, **Zhongkai Hao**, Xinning Zhou, Hang Su, Dong Yan, Jun Zhu <br>
+  International Joint Conference on Artificial Intelligence **(IJCAI)**, Macao, China, 2023 <br>
+  [\[arXiv\]](https://arxiv.org/pdf/2209.07074.pdf) [\[code\]](https://github.com/yingchengyang/BIRIS)
 
-* [Offline Reinforcement Learning via High-Fidelity Generative Behavior Modeling](https://openreview.net/forum?id=42zs3qa2kpy) <br>
-Huayu Chen, Cheng Lu, **Chengyang Ying**, Hang Su, Jun Zhu <br>
-International Conference on Learning Representations **(ICLR)**, Kigali, Rwanda, 2023 <br>
-[\[pdf\]](https://openreview.net/pdf?id=42zs3qa2kpy) [\[arXiv\]](https://arxiv.org/pdf/2209.14548.pdf) [\[code\]](https://github.com/ChenDRAG/SfBC)
+* Reward Informed Dreamer for Task Generalization in Reinforcement Learning <br>
+  Chengyang Ying, **Zhongkai Hao**, Xinning Zhou, Hang Su, Songming Liu, Jialian Li, Dong Yan, Jun Zhu <br>
+  arXiv preprint arXiv:2303.05092 <br>
+  [\[arXiv\]](https://arxiv.org/pdf/2303.05092.pdf)
 
-* [Bi-level Physics-Informed Neural Networks for PDE Constrained Optimization using Broyden's Hypergradients](https://openreview.net/forum?id=kkpL4zUXtiw) <br>
-Zhongkai Hao, **Chengyang Ying**, Hang Su, Jun Zhu, Jian Song, Ze Cheng <br>
-International Conference on Learning Representations **(ICLR)**, Kigali, Rwanda, 2023 <br>
-[\[pdf\]](https://openreview.net/pdf?id=kkpL4zUXtiw) [\[arXiv\]](https://arxiv.org/pdf/2209.07075.pdf) [\[code\]](https://github.com/HaoZhongkai/Bi-level-PINN)
+* [Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications](https://arxiv.org/pdf/2211.08064.pdf)<br>
 
-* Understanding Adversarial Attacks on Observations in Deep Reinforcement Learning <br>
-You Qiaoben, **Chengyang Ying**, Xinning Zhou, Hang Su, Jun Zhu, Bo Zhang <br>
-SCIENCE CHINA Information Sciences **(SCIS)**, 2023 <br>
-[\[arXiv\]](https://arxiv.org/pdf/2106.15860.pdf) [\[code\]](https://github.com/yingchengyang/Two-Stage-Attack)
+  **Zhongkai Hao**, Songming Liu, Yichi Zhang, Chengyang Ying, Yao Feng, Hang Su, Jun Zhu
+
+  arXiv preprint arxiv: 2211.08064<br>
+
+  [\[arXiv\]](https://arxiv.org/pdf/2211.08064.pdf)
+
+* [Bi-level Physics-Informed Neural Networks for PDE Constrained Optimization using Broyden's Hypergradients](https://openreview.net/forum?id=kkpL4zUXtiw) <br>**Zhongkai Hao**, Chengyang Ying, Hang Su, Jun Zhu, Jian Song, Ze Cheng <br>
+  International Conference on Learning Representations **(ICLR)**, Kigali, Rwanda, 2023 <br>
+  [\[pdf\]](https://openreview.net/pdf?id=kkpL4zUXtiw) [\[arXiv\]](https://arxiv.org/pdf/2209.07075.pdf) [\[code\]](https://github.com/HaoZhongkai/Bi-level-PINN)
+
+* [Equivariant Energy-Guided SDE for Inverse Molecular Design](https://openreview.net/forum?id=r0otLtOwYW)<br>
+
+  Fan Bao, Min Zhao, **Zhongkai Hao**, Peiyao Li, Chongxuan Li, Jun Zhu<br>
+
+  International Conference on Learning Representations **(ICLR)**, Kigali, Rwanda, 2023 <br>
+  [\[pdf\]](https://openreview.net/pdf?id=r0otLtOwYW) [\[arXiv\]](https://arxiv.org/pdf/2209.15408.pdf) [\[code\]](https://github.com/gracezhao1997/EEGSDE)
 
 * [A Unified Hard-Constraint Framework for Solving Geometrically Complex PDEs](https://openreview.net/forum?id=GNt5ntEGjD3) <br>
-Songming Liu, Zhongkai Hao, **Chengyang Ying**, Hang Su, Jun Zhu, Ze Cheng <br>
-Conference on Neural Information Processing Systems **(NeurIPS)**, New Orleans, USA, 2022. <br>
-[\[pdf\]](https://openreview.net/pdf?id=GNt5ntEGjD3) [\[arXiv\]](https://arxiv.org/pdf/2210.03526.pdf) [\[code\]](https://github.com/csuastt/hardconstraint)
+  Songming Liu, **Zhongkai Hao**, Chengyang Ying, Hang Su, Jun Zhu, Ze Cheng <br>
+  Conference on Neural Information Processing Systems **(NeurIPS)**, New Orleans, USA, 2022. <br>
+  [\[pdf\]](https://openreview.net/pdf?id=GNt5ntEGjD3) [\[arXiv\]](https://arxiv.org/pdf/2210.03526.pdf) [\[code\]](https://github.com/csuastt/hardconstraint)
 
+* AVT: Au-Assisted Visual Transformer for Facial Expression Recognition<br>
+  
+  Rijin Jin, Sirui Zhao, **Zhongkai Hao**, Yifan Xu, Tong Xu, Enhong Chen<br>
+  
+  IEEE International Conference on Image Processing (ICIP), 2022<br>
+  
+  [\[pdf\]](https://ieeexplore.ieee.org/document/9897960/)
+  
 * [GSmooth: Certified Robustness against Semantic Transformations via Generalized Randomized Smoothing](https://proceedings.mlr.press/v162/hao22c) <br>
-Zhongkai Hao, **Chengyang Ying**, Yinpeng Dong, Hang Su, Jian Song, Jun Zhu <br>
-International Conference on Machine Learning **(ICML)**, Baltimore, USA, 2022. <br>
-[\[pdf\]](https://proceedings.mlr.press/v162/hao22c/hao22c.pdf) [\[arXiv\]](https://arxiv.org/pdf/2206.04310.pdf)
+  Zhongkai Hao, **Chengyang Ying**, Yinpeng Dong, Hang Su, Jian Song, Jun Zhu <br>
+  International Conference on Machine Learning **(ICML)**, Baltimore, USA, 2022. <br>
+  [\[pdf\]](https://proceedings.mlr.press/v162/hao22c/hao22c.pdf) [\[arXiv\]](https://arxiv.org/pdf/2206.04310.pdf)
 
-* [Towards Safe Reinforcement Learning via Constraining Conditional Value at Risk](https://www.ijcai.org/proceedings/2022/0510) <br>
-**Chengyang Ying**, Xinning Zhou, Hang Su, Dong Yan, Ning Chen, Jun Zhu <br>
-International Joint Conference on Artificial Intelligence **(IJCAI)**, Vienna, Austria, 2022. <br>
-[\[pdf\]](https://www.ijcai.org/proceedings/2022/0510.pdf) [\[arXiv\]](https://arxiv.org/pdf/2206.04436.pdf) [\[code\]](https://github.com/yingchengyang/CPPO) [\[slide\]](https://ml.cs.tsinghua.edu.cn/~chengyang/1_CVaR_safe_RL/CVaR_Safe_RL.pdf) [\[ICML 2021 AML Workshop\]](https://openreview.net/forum?id=igA6MDRISO1)
+* CLUSTER ATTACK: Query-based Adversarial Attacks on Graphs with Graph-Dependent Priors<br>
+  
+  Zhengyi Wang, **Zhongkai Hao**, Ziqiao Wang, Hang Su, Jun Zhu<br>
+  
+  International Joint Conference on Artificial Intelligence (**IJCAI**), 2022. (Long Oral, Accept rate~3.8%) <br>
+  
+  [[pdf\]](https://arxiv.org/abs/2109.13069) [[Code\]](https://github.com/thuwzy/Cluster-Attack)
+  
+* [A two-stage 3D CNN based learning method for spontaneous micro-expression recognition](https://www.sciencedirect.com/science/article/abs/pii/S0925231221004446)<br>
+  
+  Sirui Zhao, Hanqing Tao, Yangsong Zhang, Tong Xu, Kun Zhang, **Zhongkai Hao**, Enhong Chen<br>
+  
+  Neurocomputing<br>
+  
+  [\[link\]](https://www.sciencedirect.com/science/article/abs/pii/S0925231221004446)
+  
+* [ASGN: An active semi-supervised graph neural network for molecular property prediction](https://arxiv.org/pdf/2007.03196.pdf)<br>
 
+  Zhongkai Hao, Chengqiang Lu, Zheyuan Hu, Hao Wang, Zhenya Huang, Qi Liu, Enhong Chen, Cheekong Lee<br>
 
-Worshop Papers & Preprints
-======
-* Reward Informed Dreamer for Task Generalization in Reinforcement Learning <br>
-**Chengyang Ying**, Zhongkai Hao, Xinning Zhou, Hang Su, Songming Liu, Jialian Li, Dong Yan, Jun Zhu <br>
-arViv preprint arXiv:2303.05092 <br>
-[\[arXiv\]](https://arxiv.org/pdf/2303.05092.pdf)
+  Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (**SIGKDD**), 2020<br>
 
-* Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications <br>
-Zhongkai Hao, Songming Liu, Yichi Zhang, **Chengyang Ying**, Yao Feng, Hang Su, Jun Zhu <br>
-arXiv preprint arXiv:2211.08064 <br>
-[\[arXiv\]](https://arxiv.org/pdf/2211.08064.pdf)
-
-* [Strategically-timed State-Observation Attacks on Deep Reinforcement Learning Agents](https://openreview.net/forum?id=FSD_8Sglf_u) <br>
-You Qiaoben, Xinning Zhou, **Chengyang Ying**, Jun Zhu <br>
-ICML 2021 Workshop on Adversarial Machine Learning, 2021 <br>
-
-<!-- * [Towards Safe Reinforcement Learning via Constraining Conditional Value at Risk](https://openreview.net/forum?id=igA6MDRISO1) <br>
-**Chengyang Ying**, Xinning Zhou, Dong Yan, Jun Zhu <br>
-ICML 2021 Workshop on Adversarial Machine Learning, 2021 <br>
-[\[pdf\]](https://openreview.net/pdf?id=igA6MDRISO1) -->
-
-
-<!-- Manuscripts
-======
-* Analysis of Alignment Phenomenon in Simple Teacher-student Networks with Finite Width <br>
-Hanlin Zhu, **Chengyang Ying**, Song Zuo <br>
-\[[pdf](https://openreview.net/pdf?id=e3bhF_p0T7c)\]
+  [\[pdf\]](https://arxiv.org/pdf/2007.03196.pdf), [\[code\]](https://github.com/HaoZhongkai/AS_Molecule)
 
 Projects
 ======
@@ -103,27 +117,16 @@ Projects
 
 Services
 ======
-Reviewer for ICML 2022, NeurIPS 2022, 2023, TCSVT
+Reviewer for IJCAI 2023, ICML 2023, NeurIPS 2023
 
-<!-- Others: Reviewer for Adversarial Machine Larning workshop@ICML 2021 & AAAI 2022 -->
+Reviewer for IJCAI 2022, ICML 2022, NeurIPS 2022
 
-Honors & Awards
-======
-* **Beijing Outstanding Gradates, 2021.6** 
-* **Tsinghua Excellent Gradates, Tsinghua University, 2021.6**
-* WQF Scholarship, Tsinghua University, 2020.10
-* ZhaoFangxiong Scholorship, Dept. Math, Tsinghua Univrsity, 2020.4
-* Hengda Scholarship, Tsinghua University, 2019.10
-* **China National Scholarship, Tsinghua University, 2018.10**
-* The first prize of “Gao Jiao She Bei”national mathematical modeling competition for College Students, 2018.10
-* Comprehensive Excellence Award, Tsinghua University, 2018-2020
-* **Silver Award of Chinese Mathematical Olympiad (CMO), 2016.11**
+Reviewer for KDD 2021, PRCV 2021
 
 Teaching
 ======
-* 2022 Spring, TA in Deep Learning, instructed by A/Prof. Xiaolin Hu and Prof. Jun Zhu
-* 2022 Spring, TA in Statistical Machine Learning, instructed by Prof. Jun Zhu
-* 2021 Spring & 2021 Fall & 2023 Spring, TA in Discrete mathematics for Computer Science, instructed by A/Prof. Hang Su
+* 2023 Spring, TA in Statistical Machine Learning, instructed by Prof. Hang Su
+* 2022 Spring, TA in Statistical Machine Learning, instructed by Prof. Hang Su
 
 Miscellaneous
 ======
@@ -135,6 +138,6 @@ Reading group slides:
 * [Meta Reinforcement Learning](https://ml.cs.tsinghua.edu.cn/~chengyang/reading_meeting/Reading_Meeting_20220311.pdf)
 * [Max-Entropy Reinforcement Learning](https://ml.cs.tsinghua.edu.cn/~chengyang/reading_meeting/Reading_Meeting_20211126.pdf)
 
- 
+
 ***
-Last update: March 2023 by Chengyang Ying
+Last update: May 10 by Zhongkai Hao

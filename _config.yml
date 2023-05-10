@@ -11,7 +11,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://yingchengyang.github.io 
+url                      : https://haozhongkai.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chengyang Ying"
-  avatar           : "profile.png"
-  bio              : "PhD student at Tsinghua University, Machine Learning, Reinforcement Learning"
+  name             : "Zhongkai Hao"
+  avatar           : "profile.jpg"
+  bio              : "PhD student at Tsinghua University, Machine Learning, AI for Science"
   location         : "Beijing China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=vM6KE18AAAAJ" 
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=dfSzq27ZiVoC" 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yingchengyang"
+  github           : "haozhongkai"
   google_plus      :
   keybase          :
   instagram        :
