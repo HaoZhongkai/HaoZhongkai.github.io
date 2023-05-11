@@ -18,7 +18,7 @@ Email: hzj21@mails.tsinghua.edu.cn; hzk011003@gmail.com; hzk171805@mail.ustc.edu
 
 - We have a survey paper about physics-informed machine learning available on arXiv:
 
-  [Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications](https://arxiv.org/pdf/2211.08064.pdf)<br>
+  [Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications](https://arxiv.org/pdf/2211.08064.pdf)
 
   It provides insights about how to integrate physical prior into machine learning. It also exhaustively introduces recent progress of **Physics-informed Neural Networks** and **Neural Operators**.
 
@@ -26,7 +26,7 @@ Email: hzj21@mails.tsinghua.edu.cn; hzk011003@gmail.com; hzk171805@mail.ustc.edu
 
   [Machine Learning for Science and Engineering PaperList](https://ml.cs.tsinghua.edu.cn/~zhongkai/papers/ml4phys_paperlist.txt)
 
-  Although this paperlist now might be not very accurate, it is a good tool to track new papers about AI4Science. We will improve its filtration efficiency further.
+  Although this paperlist might be inaccurate now, it is a good tool to track new papers about AI4Science. We will improve its filtration efficiency further.
 
 Publications
 ======
