@@ -16,21 +16,13 @@ Email: hzj21@mails.tsinghua.edu.cn; hzk011003@gmail.com; hzk171805@mail.ustc.edu
 
 # News
 - We have established a large scale benchmark on PINNs,
-
-  [PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs](https://arxiv.org/abs/2306.08827)
-
-  It provides 10+ PINN variants evaluated on 22 challenging PDEs, which is the largest benchmark for PINNs. [\[code\]](https://github.com/i207M/PINNacle)
-
+  [PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs](https://arxiv.org/abs/2306.08827)<br>
+  It provides 10+ PINN variants evaluated on 22 challenging PDEs, which is the largest benchmark for PINNs. [\[code\]](https://github.com/i207M/PINNacle)<br>
 - We have a survey paper about physics-informed machine learning available on arXiv:
-
-  [Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications](https://arxiv.org/pdf/2211.08064.pdf)
-
-  It provides insights about how to integrate physical prior into machine learning. It also exhaustively introduces recent progress of **Physics-informed Neural Networks** and **Neural Operators**.
-
+  [Physics-Informed Machine Learning: A Survey on Problems, Methods and Applications](https://arxiv.org/pdf/2211.08064.pdf)<br>
+  It provides insights about how to integrate physical prior into machine learning. It also exhaustively introduces recent progress of **Physics-informed Neural Networks** and **Neural Operators**.<br>
 - We have a automatically renewing paper list about **AI for Science**: 
-
-  [Machine Learning for Science and Engineering PaperList](https://ml.cs.tsinghua.edu.cn/~zhongkai/papers/ml4phys_paperlist.txt)
-
+  [Machine Learning for Science and Engineering PaperList](https://ml.cs.tsinghua.edu.cn/~zhongkai/papers/ml4phys_paperlist.txt)<br>
   Although this paperlist might be inaccurate now, it is a good tool to track new papers about AI4Science. We will improve its filtration efficiency further.
 
 Selected Publications
@@ -101,6 +93,16 @@ Reading group slides:
 Invited talks:
 
 - [Slides](files/piml_survey_report.pdf) about Physics-informed Machine Learning at [Lu's group](https://lu.seas.upenn.edu/).
+
+
+
+# Curriculum Vitae
+
+My curriculum vitae  is [here](files/CV_ZhongkaiHao202310.pdf).
+
+
+
+
 
 
 ***
