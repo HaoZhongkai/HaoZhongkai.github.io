@@ -49,7 +49,7 @@ International Conference on Machine Learning **(ICML)**, Vienna, Austria, 2024<b
 [\[arXiv\]](https://web3.arxiv.org/abs/2407.05232) [\[code\]](https://github.com/pengwei07/PAPM)<br>
 * [Accelerating Data Generation for Neural Operators via Krylov Subspace Recycling](https://arxiv.org/pdf/2401.09516)<br>
 Hong Wang *, **Zhongkai Hao** *, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, Feng Wu<br>
-The Twelfth International Conference on Learning Representations**(ICLR)**, Vienna, Austria, 2024 (<span style="color:red;">Spotlight</span>) <br>
+The Twelfth International Conference on Learning Representations **(ICLR)**, Vienna, Austria, 2024 (<span style="color:red;">Spotlight</span>) <br>
 [\[arXiv\]](https://arxiv.org/abs/2401.09516) [\[code\]](https://github.com/wanghong1700/NO-DataGen-SKR)<br>
 * [Full-atom protein pocket design via iterative refinement](https://proceedings.neurips.cc/paper_files/paper/2023/file/365a6f71486ecdfa7eb8d61cbe168782-Paper-Conference.pdf)<br>
 Zaixi Zhang, Zepu Lu, **Zhongkai Hao**, Marinka Zitnik, Qi Liu<br>
