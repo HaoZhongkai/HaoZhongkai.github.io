@@ -32,6 +32,29 @@ Selected Publications
 * [PINNacle: A Comprehensive Benchmark of Physics-Informed Neural Networks for Solving PDEs](https://arxiv.org/abs/2306.08827)<br>
 **Zhongkai Hao**, Jiachen Yao, Chang Su, Hang Su, Ziao Wang, Fanzhi Lu, Zeyu Xia, Yichi Zhang, Songming Liu, Lu Lu, Jun Zhu<br>
 [\[arXiv\]](https://arxiv.org/pdf/2306.08827.pdf) [\[code\]](https://github.com/i207M/PINNacle)<br>
+* [DPOT: Auto-Regressive Denoising Operator Transformer for Large-Scale PDE Pre-Training](https://arxiv.org/pdf/2403.03542)<br>
+**Zhongkai Hao**, Chang Su, Songming Liu, Julius Berner, Chengyang Ying, Hang Su, Anima Anandkumar, Jian Song, Jun Zhu<br>
+International Conference on Machine Learning **(ICML)**, Vienna, Austria, 2024<br>
+[\[arXiv\]](https://arxiv.org/abs/2403.03542) [\[code\]](https://github.com/thu-ml/DPOT)<br>
+* [Improved Operator Learning by Orthogonal Attention](https://arxiv.org/pdf/2310.12487)<br>
+Zipeng Xiao, **Zhongkai Hao**, Bokai Lin, Zhijie Deng, Hang Su<br>
+International Conference on Machine Learning **(ICML)**, Vienna, Austria, 2024 (<span style="color:red;">Spotlight</span>)<br>
+[\[arXiv\]](https://arxiv.org/abs/2310.12487) [\[code\]](https://github.com/zhijie-group/Orthogonal-Neural-operator)<br>
+* [Reference Neural Operators: Learning the Smooth Dependence of Solutions of PDEs on Geometric Deformations](https://proceedings.mlr.press/v235/cheng24c.html)<br>
+Ze Cheng, **Zhongkai Hao**, Xiaoqiang Wang, Jianing Huang, Youjia Wu, Xudan Liu, Yiru Zhao, Songming Liu, Hang Su<br>
+International Conference on Machine Learning **(ICML)**, Vienna, Austria, 2024<br>
+* [PAPM: A Physics-aware Proxy Model for Process Systems](https://arxiv.org/html/2407.05232v1)<br>
+Pengwei Liu, **Zhongkai Hao**, Xingyu Ren, Hangjie Yuan, Jiayang Ren, Dong Ni<br>
+International Conference on Machine Learning **(ICML)**, Vienna, Austria, 2024<br>
+[\[arXiv\]](https://web3.arxiv.org/abs/2407.05232) [\[code\]](https://github.com/pengwei07/PAPM)<br>
+* [Accelerating Data Generation for Neural Operators via Krylov Subspace Recycling](https://arxiv.org/pdf/2401.09516)<br>
+Hong Wang *, **Zhongkai Hao** *, Jie Wang, Zijie Geng, Zhen Wang, Bin Li, Feng Wu<br>
+The Twelfth International Conference on Learning Representations**(ICLR)**, Vienna, Austria, 2024 (<span style="color:red;">Spotlight</span>) <br>
+[\[arXiv\]](https://arxiv.org/abs/2401.09516) [\[code\]](https://github.com/wanghong1700/NO-DataGen-SKR)<br>
+* [Full-atom protein pocket design via iterative refinement](https://proceedings.neurips.cc/paper_files/paper/2023/file/365a6f71486ecdfa7eb8d61cbe168782-Paper-Conference.pdf)<br>
+Zaixi Zhang, Zepu Lu, **Zhongkai Hao**, Marinka Zitnik, Qi Liu<br>
+Advances in Neural Information Processing Systems**(NeurIPS)**, New Orleans, USA, 2023 (<span style="color:red;">Spotlight</span>) <br>
+[\[arXiv\]](https://arxiv.org/abs/2310.02553) [\[code\]](https://github.com/zaixizhang/FAIR)<br>
 * [GNOT: A General Neural Operator Transformer for Operator Learning](https://arxiv.org/abs/2302.14376)<br>
   **Zhongkai Hao**, Chengyang Ying, Zhengyi Wang, Hang Su, Yinpeng Dong, Songming Liu, Ze Cheng, Jun Zhu, Jian Song<br>
   International Conference on Machine Learning **(ICML)**, Hawaii, USA, 2023<br>
